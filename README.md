@@ -11,13 +11,15 @@ Programování pro strojní inženýry
 
 1. Skriptování v Pythonu, moduly, možnosti pro zpracování dat, práce s datovými strukturami
 
+    * [Základy skriptování v Pythonu](podklady/notebooks/skriptovani_v_pythonu.ipynb) - list, indexovaní, for, while
+
 1. Python, práce s vektory a maticemi - maticové operace; řešení soustav lineárních rovnic v Pythonu vlastní čísla a vektory;
 
 1. Vizualizace dat (knihovna MatplotLib)
 
 1. Práce s pokročilými datovými strukturami, list ,tuple, dictionary, parsování xml
 
-    * [Práce s pokročilými datovými strukturami](podklady/notebooks/datove_struktury.ipynb) - list, tuple, dictionary, list comprehension, generators
+    * [Datové struktury a generátory](podklady/notebooks/datove_struktury.ipynb) - tuple, dictionary, list comprehension, generators
 
 1. Komprese dat v Pythonu, datové formáty, pickle, JSON, hdf5
 
