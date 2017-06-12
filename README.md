@@ -17,6 +17,8 @@ Programování pro strojní inženýry
 
 1. Práce s pokročilými datovými strukturami, list ,tuple, dictionary, parsování xml
 
+    * [Práce s pokročilými datovými strukturami](podklady/notebooks/datove_struktury.ipynb) - list, tuple, dictionary, list comprehension, generators
+
 1. Komprese dat v Pythonu, datové formáty, pickle, JSON, hdf5
 
 1. Vlastní funkce, základní principy objektového programování, objekty, metody
@@ -30,6 +32,4 @@ Programování pro strojní inženýry
 1. C#, možnosti pro zpracování dat, práce s datovými strukturami, jednoduchá aplikace
 
 
-## Podklady
 
-Zde budou odkazy na podklady.
