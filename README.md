@@ -1,11 +1,13 @@
 # PPSI
 Programování pro strojní inženýry
 
-## Sylabus
+## Sylabus a podklady
 
 1. Prostředí Matlab, IDE, konzole, editor, datové typy, lineární algebra
 
 1. Matlab, for smyčka, if podmínka, vlastní funkce, grafy
+
+    * [Základy Matlabu](podklady/markdown/zaklady_matlabu.md) - if podmínka
 
 1. Programovací jazyk Python vs. Matlab, backend, IDE, konzole, editor, datové typy, (knihovny NumPy, Scipy)
 
