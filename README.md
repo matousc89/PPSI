@@ -7,7 +7,7 @@ Programování pro strojní inženýry
 
 1. Matlab, for smyčka, if podmínka, vlastní funkce, grafy
 
-    * [Základy Matlabu](podklady/markdown/zaklady_matlabu.md) - if podmínka
+    * [Základy Matlabu](podklady/markdown/zaklady_matlabu.md) - if, for, while
 
 1. Programovací jazyk Python vs. Matlab, backend, IDE, konzole, editor, datové typy, knihovny (NumPy, Scipy)
 
