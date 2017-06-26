@@ -9,17 +9,17 @@ Programování pro strojní inženýry
 
     * [Základy Matlabu](podklady/markdown/zaklady_matlabu.md) - if podmínka
 
-1. Programovací jazyk Python vs. Matlab, backend, IDE, konzole, editor, datové typy, (knihovny NumPy, Scipy)
+1. Programovací jazyk Python vs. Matlab, backend, IDE, konzole, editor, datové typy, knihovny (NumPy, Scipy)
 
 1. Skriptování v Pythonu, moduly, možnosti pro zpracování dat, práce s datovými strukturami
 
     * [Základy skriptování v Pythonu](podklady/notebooks/skriptovani_v_pythonu.ipynb) - list, indexovaní, for, while
 
-1. Python, práce s vektory a maticemi - maticové operace; řešení soustav lineárních rovnic v Pythonu vlastní čísla a vektory;
+1. Python, práce s vektory a maticemi - maticové operace; řešení soustav lineárních rovnic v Pythonu vlastní čísla a vektory
 
 1. Vizualizace dat (knihovna MatplotLib)
 
-1. Práce s pokročilými datovými strukturami, list ,tuple, dictionary, parsování xml
+1. Práce s pokročilými datovými strukturami, list, tuple, dictionary, parsování xml
 
     * [Datové struktury a generátory](podklady/notebooks/datove_struktury.ipynb) - tuple, dictionary, list comprehension, generators
 
