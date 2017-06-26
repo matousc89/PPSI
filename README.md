@@ -25,6 +25,8 @@ Programování pro strojní inženýry
 
 1. Vlastní funkce, základní principy objektového programování, objekty, metody
 
+    * [Funkce a třídy](podklady/notebooks/funkce_a_tridy.ipynb) - def, class, args, kwargs
+
 1. Hardware pro Python, měření přes USB/Ethernet (LabJack, Raspberry Pi, …)
 
 1. Příklad využití Pythonu v analytickém modulu Scada systému
