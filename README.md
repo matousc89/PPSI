@@ -11,6 +11,8 @@ Programování pro strojní inženýry
 
 1. Programovací jazyk Python vs. Matlab, backend, IDE, konzole, editor, datové typy, knihovny (NumPy, Scipy)
 
+    * [Python 2 vs Python 3](podklady/python3_vs_python2.ipynb)
+
 1. Skriptování v Pythonu, moduly, možnosti pro zpracování dat, práce s datovými strukturami
 
     * [Základy skriptování v Pythonu](podklady/notebooks/skriptovani_v_pythonu.ipynb) - list, indexovaní, for, while
