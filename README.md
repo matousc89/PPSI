@@ -19,6 +19,8 @@ Programování pro strojní inženýry
 
 1. Vizualizace dat (knihovna MatplotLib)
 
+    * [Vizualizace dat s knihovnou Matplotlib](podklady/notebooks/matplotlib.ipynb) - spojnicový graf, boxplot, koláčový graf, sloupcový graf, histogram, subplot
+
 1. Práce s pokročilými datovými strukturami, list, tuple, dictionary, parsování xml
 
     * [Datové struktury a generátory](podklady/notebooks/datove_struktury.ipynb) - tuple, dictionary, list comprehension, generators
