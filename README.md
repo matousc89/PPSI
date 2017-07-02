@@ -13,13 +13,15 @@ Programování pro strojní inženýry
 
     * [Python 2 vs Python 3](podklady/notebooks/python3_vs_python2.ipynb)
     
-    * [Import knihoven](podklady/notebooks/python_imports.ipynb)
+    * [Import knihoven v Pythonu](podklady/notebooks/python_imports.ipynb) - import, instalace knihoven, pip, PyPI
 
 1. Skriptování v Pythonu, moduly, možnosti pro zpracování dat, práce s datovými strukturami
 
-    * [Základy skriptování v Pythonu](podklady/notebooks/skriptovani_v_pythonu.ipynb) - list, indexovaní, for, while
+    * [Základy skriptování v Pythonu](podklady/notebooks/skriptovani_v_pythonu.ipynb) - list, indexovaní, if-else, for, while
 
 1. Python, práce s vektory a maticemi - maticové operace; řešení soustav lineárních rovnic v Pythonu vlastní čísla a vektory
+
+    * [Symbolické počty v Pythonu](podklady/notebooks/symbolicke-pocty.ipynb) - úprava výrazů, řešení soustav rovnic, operace s maticema obsahujicí symbolické proměnné
 
 1. Vizualizace dat (knihovna MatplotLib)
 
