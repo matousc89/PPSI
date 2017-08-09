@@ -5,6 +5,8 @@ Programování pro strojní inženýry
 
 1. Prostředí Matlab, IDE, konzole, editor, datové typy, lineární algebra
 
+    * [Základní orientace v Matlabu](podklady/video/matlab_zaklady.md) - krátké video pro rychlou orientaci v Matlabu. Určeno pro studenty, kteří nikdy nic podobného Matlabu neviděli
+
 1. Matlab, for smyčka, if podmínka, vlastní funkce, grafy
 
     * [Základy Matlabu](podklady/markdown/zaklady_matlabu.md) - if, for, while
