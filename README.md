@@ -1,5 +1,8 @@
 # PPSI
-Programování pro strojní inženýry
+Programování pro strojní inženýry. 
+
+Video poklady je potřeba prvně stáhnout. Většina podkladů pro Python je vytvořena pomocí Jupyter Notebook.
+Pokud si Jupyter nainstalujete na svůj počítač, můžete tutoriály upravovat a spouštět upravené.
 
 ## Sylabus a podklady
 
