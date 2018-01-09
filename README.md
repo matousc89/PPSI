@@ -38,7 +38,7 @@ Pokud si Jupyter nainstalujete na svůj počítač, můžete tutoriály upravova
 
 1. Komprese dat v Pythonu, datové formáty, pickle, JSON, hdf5
 
-    * [Skladování dat](podklady/notebooks/data_formats.ipynb) - tuple, json
+    * [Skladování dat](podklady/notebooks/data_formats.ipynb) - pickle, json
 
 1. Vlastní funkce, základní principy objektového programování, objekty, metody
 
